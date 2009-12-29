@@ -1,4 +1,7 @@
+45	C([C@H]([C@@](Cc1ccccc1)(c1ccccc1)OC(CC)=O)C)N(C)C
+12	c1([C@@]2(CCCCC2=O)NC)ccc(cc1)Cl
 189	C1[C@H]([C@@H]2[C@H]([C@@H](CO2)O[N+]([O-])=O)O1)O
+34	c12[C@H]3[C@H](C(Oc2cc(CCCCC)cc1O)(C)C)CCC(=C3)C
 113	c1(CCC)ccccc1OC[C@@H](CNC(C)C)O
 136	c12c3ccccc3n(C)c1CC[C@@H](Cn1ccnc1C)C2=O
 203	N1(c2ccccc2)C(C(C(N1c1ccccc1)=O)CCCC)=O
@@ -233,33 +236,3 @@
 55	C(c1ccccc1)(NC1CCN(CC1)CCc1c2c([nH]c1)cccc2)=O
 157	c12c(ncn2C)n(C)c(n(C)c1=O)=O
 2	c1(CCCl)c(C)ncs1
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-45	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-12	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
-34	"yoshida"	0
