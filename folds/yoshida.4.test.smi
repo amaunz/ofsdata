@@ -1,0 +1,56 @@
+215	N1(c2ccccc2)C(C(C(N1c1ccccc1)=O)CC[S@](c1ccccc1)=O)=O
+14	O([C@@H]1[C@@H]2[C@@H]([C@H](C=CC2=C[C@H](C1)C)C)CC[C@H]1C[C@@H](CC(=O)O1)O)C([C@H](C)CC)=O
+42	c1([C@@](C)(c2ccccc2)OCC[C@@H]2CCC[N@@]2C)ccc(cc1)Cl
+151	c12c(ncnc1[nH]nc2)O
+120	c1(ccc(cc1)C(F)(F)F)\C(CCCCOC)=N\OCCN
+225	C(CCC)(CCC)C(O)=O
+39	C1(=C\CCN(C)C)\c2c(CCc3c1cccc3)cccc2
+6	n1(C2CCN(CC2)CCCn2c3ccccc3[nH]c2=O)c2ccc(cc2[nH]c1=O)Cl
+35	C1(CCCCC1)([C@@H](c1ccc(cc1)OC)CN(C)C)O
+118	c1([C@H](CCNC)Oc2ccc(cc2)C(F)(F)F)ccccc1
+79	c1(ccc(cc1)O)OC[C@@H](CNC(C)C)O
+207	C1=2[C@@]([C@@H]3[C@H]([C@H]4CC[C@]([C@@]4(CC3=O)C)(C(CO)=O)O)CC1)(C)C=CC(C2)=O
+184	C=1([C@]2(C)C(NC(N(C2=O)C)=O)=O)CCCCC1
+107	c1(c(C)[nH]cn1)CSCC\[NH]=C(/NC)NC#N
+103	N1(CCC[C@H]1C(O)=O)C([C@H](C)CS)=O
+182	c1(cc(ccc1OC)Cl)C(NCCc1ccc(cc1)S(NC(NC1CCCCC1)=O)(=O)=O)=O
+154	c1(ccc(cc1)CCOCC1CC1)OC[C@@H](CNC(C)C)O
+36	N1(CCOCC1)C(NCCNC[C@@H](COc1ccc(cc1)O)O)=O
+49	c1(CC[C@@H]2CCCC[N@]2C)ccccc1NC(c1ccc(cc1)OC)=O
+259	c1(cc(c([nH]c1C)=O)C#N)c1ccncc1
+98	N(Cc1ccccc1)(C[C@H](COCC(C)C)N1CCCC1)c1ccccc1
+250	c1(C2CCN(CC2)CCc2c(C)nc3CCCCn3c2=O)c2ccc(cc2on1)F
+218	C1[C@@H]2[C@H](C(=C(N(S2(=O)=O)C)C(Nc2ccccn2)=O)O)SC1
+20	c12[C@]34CC[N@]([C@H]5Cc1ccc(c2O[C@@H]3C(CC[C@@]45O)=O)O)CC=C
+4	c1([C@](CCN(C(C)C)C(C)C)(c2ccccn2)C(N)=O)ccccc1
+2	c1(CCCl)c(C)ncs1
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+45	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+12	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
+34	"yoshida"	0
