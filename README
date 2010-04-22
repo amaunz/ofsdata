@@ -6,14 +6,15 @@ http://www.springerlink.com/content/x22202075j328w46/
 
 Target classes: active (1) and inactive (0)
 
-|-- README                             this file
+|-- README                       this file
 
-|-- .smi                         compounds in SMILES format
-|-- .class                       lazar and libfminer compatible input format
-|-- .active                      sfgm compatible input format (actives)
-|-- .inactive                    sfgm compatible input format (inactives)
+|-- .smi                         lazar and libfminer compatible input format (compounds in SMILES format)
+|-- .class                       lazar and libfminer compatible input format (target class)
+|-- .active                      sfgm compatible input format (target class active)
+|-- .inactive                    sfgm compatible input format (target class inactive)
+|-- .gsp                         gSpan compatible input format (compounds)
 
-How to create gSpan input file format (perl and ruby required):
+How to create gSpan format from SMILES format (perl and ruby required):
 
 1) Remove numbers from filename.smi file to obtain 1 SMILES per row in file filename.no_nr.smi
 2) do 'babel -d -ismi filename.no_nr.smi -osdf filename.sdf' to convert to MOL format
