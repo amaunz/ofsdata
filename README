@@ -1,0 +1,31 @@
+This repository contains data from:
+
+Ulrich Rückert and Stefan Kramer, Optimizing Feature Sets for Structured Data.
+In Stan Matwin and Dunja Mladenic, editors, 18th ECML. Springer, 2007.
+http://www.springerlink.com/content/x22202075j328w46/
+
+Target classes: active (1) and inactive (0)
+
+|-- README                             this file
+
+|-- .smi                         compounds in SMILES format
+|-- .class                       lazar and libfminer compatible input format
+|-- .active                      sfgm compatible input format (actives)
+|-- .inactive                    sfgm compatible input format (inactives)
+
+How to create gSpan input file format (perl and ruby required):
+
+1) Remove numbers from filename.smi file to obtain 1 SMILES per row in file filename.no_nr.smi
+2) do 'babel -d -ismi filename.no_nr.smi -osdf filename.sdf' to convert to MOL format
+3) do 'perl sdf2gsp.pl < filename.sdf > filename.no_nr.gsp' to convert to gSpan input format
+4) do 'ruby replace.rb filename.no_nr.gsp filename.smi > filename.f.gsp' to restore correct numbering from .smi file
+[ optional: do 'ruby report.rb filename.f.gsp' to report trees without edges ]
+5) do 'ruby remove.rb filename.f.gsp > filename.gsp' to remove trees without edges
+[ optional: do 'ruby report.rb filename.gsp' to report trees without edges ]
+
+
+POSTPROCESSED THE DATA (IMPORTANT)!
+COMMENTS:
+- Alternative Database (therefore the 'alt' in filenames).
+- See file 'bad.txt' for removed molecules and reasons for removal.
+
